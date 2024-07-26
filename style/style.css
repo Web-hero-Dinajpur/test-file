@@ -30,3 +30,156 @@ body{
       margin: auto;
       text-align: center;
   }
+  .top-bannar-info h3{
+      font-size: 48px;
+  }
+  .top-bannar-info button{
+      background-color: black;
+      color: white;
+      padding: 20px 30px;
+      border-radius: 7px;
+      font-size: 22px;
+      margin-bottom: 40px;
+      letter-spacing: 2px;
+  }
+  .top-bannar-info p{
+      margin-bottom: 40px;
+      line-height: 2;
+  }
+  
+  /* msin section css tag  */
+  .main-body{
+      width: 1140px;
+      margin: auto;
+  }
+  .top-perent-section{
+      background-color: #fbfbfb;
+      padding: 40px 0px;
+      margin :80px 0px;
+      border-radius: 8px;
+  }
+  /* all header section in the web  */
+  .perent-header-section{
+      text-align: center;
+      margin-bottom: 40px;
+      width: 852px;
+      margin: auto;
+      line-height: 2;
+  }
+  .perent-header-section h3 {
+      font-size: 32px;
+      margin-bottom: 0px;
+  }
+  /* * all header section in the web  /////*/
+  .top-info{
+  
+      padding: 0px 80px;
+  }
+  .child-top-info{
+      display: flex;
+      justify-content: space-between;
+      background-color: #ffffffd6;
+      border-radius: 5px;
+      padding: 8px 48px;
+      margin:32px 0px;
+  }
+  .inner-top-info{
+      width: 50%;
+  }
+  .child-top-info h2{
+      font-size: 24px;
+      color: rgb(78, 78, 78);
+  }
+  .inner-top-info button{
+      font-size: 16px;
+      font-weight: 500;
+      margin-top: 12px;
+      padding: 2px 10px;
+      background-color: white;
+  }
+  .video-section{
+      padding: 20px;
+      border: 1px solid;
+      border-radius: 8px;
+      margin: 40px 0px;
+  }
+  .card-section{
+      display: flex;
+      justify-content: space-between;
+      margin: 48px 0px;
+  }
+  
+  .inner-card1{
+      background-color: #FFF6F4;
+      width: 346px;
+      padding: 40Px;
+      border-radius: 8px;
+  }
+  .inner-card2{
+      background-color: #f2f6fe;
+      width: 346px;
+      padding: 40Px;
+      border-radius: 8px;
+      margin:0px 34px;
+  }
+  .inner-card3{
+      background-color: #fffdf2;
+      width: 346px;
+      padding: 40Px;
+      border-radius: 8px;
+  }
+  .parent-learn-section{
+      margin:48px 0px;
+  }
+  .learn-section{
+      display: flex;
+      padding: 40px;
+      justify-content: center;
+      align-items: center;
+      border: 1px solid #e0e0e1dd;
+      border-radius: 8px;
+  }
+  .learn-section img{
+      width: 95px;
+      height: 105px;
+      margin-right: 40px;
+  }
+  .middle-section{
+      margin:24px 0px;
+  }
+  .Support-bannarS{
+       
+      background-image: url(../assets/handshake.jpg);
+      padding: 48px 64px;
+      border-radius: 10px;
+      color: white;
+  }
+  .support-header-info{
+      width: 730px;
+  }
+  .input-box{
+       display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .input-box input{
+      padding: 15px 150px 15px 15px;
+      border-radius: 5px;
+      text-align: center;
+  }
+  .input-box button{
+      padding: 15px 30px;
+      font-size: 16px;
+      border-radius: 5px;
+  }
+  #footer{
+      margin-top: 80px;
+      background-color: azure;
+  }
+  .footer-section{
+      width: 1140px;
+      margin: auto;
+      display: flex;
+      justify-content: space-between;
+      padding: 30px;
+  }
