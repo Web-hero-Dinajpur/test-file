@@ -90,6 +90,9 @@ body{
       font-size: 24px;
       color: rgb(78, 78, 78);
   }
+  .inner-top-info p{
+    line-height: 2;
+  }
   .inner-top-info button{
       font-size: 16px;
       font-weight: 500;
@@ -182,4 +185,7 @@ body{
       display: flex;
       justify-content: space-between;
       padding: 30px;
+  }
+  p{
+    line-height: 2;
   }
