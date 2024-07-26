@@ -1,0 +1,32 @@
+body{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .Top-Header{
+      display: flex;
+      justify-content:space-between;
+      color: #0D1321;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      width: 1140px;
+      margin: auto;
+  }
+  .Top-Header button{
+      padding-left: 24px;
+      padding-right: 24px;
+      border-radius: 5px;
+      
+  }
+  .header-Bannar{
+      background-image: url(../assets/Hero-bg.png);
+      margin:0 auto;
+      
+  }
+  .Header-BannarandInfo{
+      width: 852px;
+      margin: auto;
+      text-align: center;
+  }
